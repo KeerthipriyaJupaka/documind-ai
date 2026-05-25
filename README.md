@@ -95,9 +95,6 @@ DocuMind AI solves this by automatically generating technical documentation usin
 
 ---
 
-## Demo
-
-Demo video link will be added here.
 
 ---
 
